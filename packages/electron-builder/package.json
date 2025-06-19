@@ -51,7 +51,7 @@
     "builder-util": "workspace:*",
     "builder-util-runtime": "workspace:*",
     "chalk": "^4.0.0",
-    "dmg-builder": "workspace:*",
+    "dmg-builder": "1.0.0",
     "fs-extra": "^9.0.0",
     "is-ci": "^2.0.0",
     "lazy-val": "^1.0.4",
