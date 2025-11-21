@@ -15,7 +15,7 @@
     "@types/semver": "^7.1.0",
     "builder-util-runtime": "workspace:*",
     "fs-extra": "^9.0.0",
-    "js-yaml": "^3.13.1",
+    "js-yaml": "^3.14.2",
     "lazy-val": "^1.0.4",
     "lodash.isequal": "^4.5.0",
     "semver": "^7.3.2"
