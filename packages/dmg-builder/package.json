@@ -13,7 +13,7 @@
     "vendor"
   ],
   "dependencies": {
-    "app-builder-lib": "workspace:*",
+    "app-builder-lib": "20.24.0",
     "builder-util": "workspace:*",
     "fs-extra": "^9.0.0",
     "iconv-lite": "^0.5.1",
