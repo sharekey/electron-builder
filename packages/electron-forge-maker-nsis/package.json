@@ -11,6 +11,6 @@
     "*.js"
   ],
   "dependencies": {
-    "app-builder-lib": "workspace:*"
+    "app-builder-lib": "20.24.0"
   }
 }
